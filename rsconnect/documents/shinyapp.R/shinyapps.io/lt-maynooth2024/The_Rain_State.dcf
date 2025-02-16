@@ -1,0 +1,13 @@
+name: The_Rain_State
+title: The_Rain_State
+username: lt-maynooth2024
+account: lt-maynooth2024
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14013538
+bundleId: 9808678
+url: https://lt-maynooth2024.shinyapps.io/The_Rain_State/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: analysis.Rmd|Assignment 2 - Q2.pdf
